@@ -14,7 +14,7 @@ On the second day, your application should:
 
 - Associate each book entry with a user
 - Have model validations
-- Show sucess and error messages in the view after a book is created, edited, or deleted
+- Show success and error messages in the view after a book is created, edited, or deleted
 - Have basic tests for your book and user models
 - allow users to checkout a book
 
